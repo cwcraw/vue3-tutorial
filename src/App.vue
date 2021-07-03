@@ -9,6 +9,7 @@
 import HelloWorld from './components/HelloWorld.vue'
 import Tutorial from './components/Tutorial.vue'
 import Calculator from './components/Calculator.vue'
+import SearchResults from './components/SearchResults.vue'
 
 export default {
   name: 'App',
@@ -16,6 +17,7 @@ export default {
     Calculator,
     HelloWorld,
     Tutorial,
+    SearchResults,
   }
 }
 </script>
